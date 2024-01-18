@@ -5,9 +5,9 @@
 
 /* HEADER SECTION CSS */
 header{
-    min-height: 135dvh;
+    height: 135dvh;
     width: 100%;
-    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/backgroundheader.JPG);
+    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../Images/backgroundheader.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -160,7 +160,7 @@ nav img{
 
 @media screen and (max-width: 1024px) {
     header{
-        min-height: 70dvh;
+        height: 70dvh;
     }
     .first-nav{
         display: none;
@@ -804,6 +804,7 @@ nav img{
 /* =============== LOGO ============== */
 .logo-container{
     margin: 7% 0% 0%;
+    padding: 5% 0;
     background: #bbb;
 }
 .logo-wrapper {
