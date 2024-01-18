@@ -7,7 +7,7 @@
 header{
     height: 135dvh;
     width: 100%;
-    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../Images/backgroundheader.JPG);
+    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../Images/bgheader.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -394,7 +394,7 @@ nav img{
     margin-top: 7%;
     text-align: center;
     justify-content: center;
-    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/what\ we\ do\ banner.jpg);
+    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/whatwedobanner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -580,7 +580,7 @@ nav img{
 
 /* ========= DISCOUNT =========== */
 .discount-container{
-    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/discount\ banner.jpg);
+    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/discountbanner.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -849,7 +849,7 @@ nav img{
     padding-top: 7%;
     text-align: center;
     justify-content: center;
-    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/trending\ banner.jpg);
+    background: linear-gradient(rgba(10, 17, 54, 0.7),rgba(22, 33, 83, 0.7)), url(../images/trendingbanner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
